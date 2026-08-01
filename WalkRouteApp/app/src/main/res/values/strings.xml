@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalkRoute</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_routes">Маршруты</string>
+    <string name="nav_history">История</string>
+    <string name="nav_profile">Профиль</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Начать прогулку</string>
+    <string name="home_subtitle">Куда хотите пойти сегодня?</string>
+    <string name="home_current_location">Текущее местоположение</string>
+    <string name="home_locating">Определение местоположения…</string>
+    <string name="home_permission_required">Требуется доступ к местоположению</string>
+    
+    <!-- Route Planning -->
+    <string name="route_plan_title">Планирование маршрута</string>
+    <string name="route_by_steps">По количеству шагов</string>
+    <string name="route_by_time">По времени</string>
+    <string name="route_enter_steps">Введите количество шагов</string>
+    <string name="route_enter_minutes">Введите время (минуты)</string>
+    <string name="route_find">Найти маршруты</string>
+    <string name="route_suggested">Предложенные маршруты</string>
+    <string name="route_distance">Дистанция: %1$s м</string>
+    <string name="route_duration">Время: %1$d мин</string>
+    <string name="route_steps">Шаги: %1$d</string>
+    <string name="route_difficulty_easy">Легкий</string>
+    <string name="route_difficulty_medium">Средний</string>
+    <string name="route_difficulty_hard">Сложный</string>
+    
+    <!-- Navigation Screen -->
+    <string name="nav_start">Начать навигацию</string>
+    <string name="nav_stop">Завершить</string>
+    <string name="nav_pause">Пауза</string>
+    <string name="nav_resume">Продолжить</string>
+    <string name="nav_progress">Прогресс: %1$d%%</string>
+    <string name="nav_steps_taken">Пройдено шагов: %1$d</string>
+    <string name="nav_distance_covered">Пройдено: %1$s м</string>
+    <string name="nav_time_elapsed">Время в пути: %1$d мин</string>
+    <string name="nav_next_instruction">Следующий поворот через %1$d м</string>
+    
+    <!-- History Screen -->
+    <string name="history_title">История прогулок</string>
+    <string name="history_empty">История пуста</string>
+    <string name="history_date">Дата: %1$s</string>
+    <string name="history_total_steps">Всего шагов: %1$d</string>
+    <string name="history_total_distance">Всего: %1$s м</string>
+    <string name="history_total_time">Время: %1$d мин</string>
+    <string name="history_delete">Удалить</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">Профиль</string>
+    <string name="profile_stats">Статистика</string>
+    <string name="profile_total_walks">Всего прогулок: %1$d</string>
+    <string name="profile_total_steps_all">Всего шагов: %1$d</string>
+    <string name="profile_total_distance_all">Всего пройдено: %1$s км</string>
+    <string name="profile_avg_steps">Среднее шагов за прогулку: %1$d</string>
+    <string name="profile_settings">Настройки</string>
+    <string name="profile_step_length">Длина шага (см)</string>
+    <string name="profile_save">Сохранить</string>
+    <string name="profile_clear_data">Очистить все данные</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_title">Требуется доступ к местоположению</string>
+    <string name="permission_location_message">Приложению нужен доступ к вашему местоположению для построения маршрутов и навигации.</string>
+    <string name="permission_grant">Разрешить</string>
+    <string name="permission_deny">Отказать</string>
+    
+    <!-- Common -->
+    <string name="common_cancel">Отмена</string>
+    <string name="common_ok">OK</string>
+    <string name="common_error">Ошибка</string>
+    <string name="common_loading">Загрузка…</string>
+    <string name="common_retry">Повторить</string>
+</resources>
